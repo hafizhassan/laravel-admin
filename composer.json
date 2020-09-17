@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hafizhassan\\LaravelAdmin\\": "src/"
+            "hafizhassan\\LaravelAdminUpdate\\": "src/"
         },
         "files": [
             "src/helpers.php"
@@ -33,7 +33,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "hafizhassan\\LaravelAdmin\\LaravelAdminServiceProvider"
+                "hafizhassan\\LaravelAdminUpdate\\LaravelAdminServiceProvider"
             ]
         }
     }
